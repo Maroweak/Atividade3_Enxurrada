@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+#header  /* Cabeçalho */
+{
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+    padding: 8px;
+}
+
+.corpo{
+    margin: 24px;
+    color:#21022d;
+    background-color: #e2d8e7;
+    padding: 16px 16px;
+}
+
+.vitaminas{
+    padding: 32px 64px;
+}
+
+.vitaminas_sl
+{
+    padding-top: 64px;
+    text-align: center;
+}
+
+#vitaminas_zero
+{
+    padding-top: 32px;
+    width: 600px;
+    height: 300px;
+}
+
+#footer /* Rodapé */
+{
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+    padding: 8px;
+}
